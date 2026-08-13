@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "description": "Tools for running multiple commands or npm scripts in parallel or sequentially.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "npm-run-all2",
+          "description": "Fully featured task runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T08:42:59Z",
+            "owner": "bcomnes",
+            "repo": "npm-run-all2",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redrun",
+          "description": "Expand scripts from package.json to improve execution speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T20:12:55Z",
+            "owner": "coderaiser",
+            "repo": "redrun",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "script-runner",
+          "description": "Simple task runner with a terse syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2018-08-13T09:10:23Z",
+            "owner": "paulpflug",
+            "repo": "script-runner",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Task Runners"
+    },
+    {
+      "description": "Tools to watch your source files and run a build command whenever any of the files change.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "watch",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-22T07:55:38Z",
+            "owner": "mikeal",
+            "repo": "watch",
+            "stars": 1279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onchange",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T20:53:10Z",
+            "owner": "Qard",
+            "repo": "onchange",
+            "stars": 826
+          }
+        }
+      ],
+      "title": "File Watchers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "http-server",
+          "description": "Simple zero-configuration command-line http server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T11:09:09Z",
+            "owner": "http-party",
+            "repo": "http-server",
+            "stars": 14206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "live-server",
+          "description": "Simple development http server with live reload capability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-28T23:27:22Z",
+            "owner": "tapio",
+            "repo": "live-server",
+            "stars": 4562
+          }
+        }
+      ],
+      "title": "Dev Servers"
+    },
+    {
+      "description": "Utilities to perform common command-line tasks without worrying about cross-platform compatibility.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cross-env",
+          "description": "Set environment variables for scripts, unix-style.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-16T14:11:37Z",
+            "owner": "kentcdodds",
+            "repo": "cross-env",
+            "stars": 6525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rimraf",
+          "description": "Delete files or directories; like .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T19:38:06Z",
+            "owner": "isaacs",
+            "repo": "rimraf",
+            "stars": 5848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "copyfiles",
+          "description": "Copy a list of files into a directory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-11T00:08:12Z",
+            "owner": "calvinmetcalf",
+            "repo": "copyfiles",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpy-cli",
+          "description": "File/directory copying/renaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T07:39:28Z",
+            "owner": "sindresorhus",
+            "repo": "cpy-cli",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "del-cli",
+          "description": "Safer file and folder deletion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-18T16:41:04Z",
+            "owner": "sindresorhus",
+            "repo": "del-cli",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpr",
+          "description": "for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-26T19:23:27Z",
+            "owner": "davglass",
+            "repo": "cpr",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clear-cli",
+          "description": "Clear the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-13T15:59:55Z",
+            "owner": "sindresorhus",
+            "repo": "clear-cli",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross-os",
+          "description": "Run platform-specific npm scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-09T03:11:46Z",
+            "owner": "milewski",
+            "repo": "cross-os",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sync-files",
+          "description": "-like directory syncing with watch mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-17T13:57:16Z",
+            "owner": "byteclubfr",
+            "repo": "node-sync-files",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ntee",
+          "description": "Utility that reads from standard input and writes to standard output and files; like Unix .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-25T23:06:16Z",
+            "owner": "stefanmaric",
+            "repo": "ntee",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "echo-cli",
+          "description": "Cross-platform with JS escape sequence support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-01T23:32:39Z",
+            "owner": "iamakulov",
+            "repo": "echo-cli",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkdirp",
+          "description": "Create a directory, creating parent directories if needed; like .",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "catw",
+          "description": "Print a file to stdout, with optional watch mode; sorta like Unix .",
+          "children": []
+        }
+      ],
+      "title": "Cross-platform Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opn-cli",
+          "description": "Open websites, files, executables, etc. with the user's preferred application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-25T16:39:20Z",
+            "owner": "sindresorhus",
+            "repo": "open-cli",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gzip-size-cli",
+          "description": "Get the gzipped size of a file or stdin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-23T07:55:08Z",
+            "owner": "sindresorhus",
+            "repo": "gzip-size-cli",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashmark",
+          "description": "Take contents of a file and output as new file with a hash in the name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-24T20:05:10Z",
+            "owner": "keithamus",
+            "repo": "hashmark",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli-error-notifier",
+          "description": "Send native desktop notifications when npm scripts fail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-19T22:29:02Z",
+            "owner": "micromata",
+            "repo": "cli-error-notifier",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "headr",
+          "description": "Add header / banner info to a file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-24T21:31:52Z",
+            "owner": "heldr",
+            "repo": "headr",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bower files CLI",
+          "description": "Get main bower files on the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T14:20:13Z",
+            "owner": "thompsonemerson",
+            "repo": "bower-files-cli",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Other Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ntl",
+          "description": "Interactive cli menu to list and run npm scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-23T13:18:51Z",
+            "owner": "ruyadorno",
+            "repo": "ntl",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forrest",
+          "description": "npm scripts desktop client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-01-31T17:55:14Z",
+            "owner": "forrest-app",
+            "repo": "forrest",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "run-npm",
+          "description": "Run locally-installed node module executables. Useful for debugging npm scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-14T15:00:58Z",
+            "owner": "timoxley",
+            "repo": "npm-run",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-quick-run",
+          "description": "Quickly run npm scripts by prefix without typing the full name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-11T21:46:39Z",
+            "owner": "bahmutov",
+            "repo": "npm-quick-run",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screwy",
+          "description": "The npm scripts GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-11-27T15:36:35Z",
+            "owner": "samueleaton",
+            "repo": "screwy",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edit-script",
+          "description": "Edit npm scripts from the command line without worrying about JSON escaping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-24T19:43:22Z",
+            "owner": "RyanZim",
+            "repo": "edit-script",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "See CONTRIBUTING.md.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:39:17.702Z",
+    "original_repository": "RyanZim/awesome-npm-scripts",
+    "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
+    "enhanced_repository": "enhansome/enhansome-npm-scripts",
+    "enhanced_repository_description": null,
+    "title": "Awesome npm Scripts with stars"
+  }
+}
