@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T08:42:59Z",
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14206
+            "stars": 14207
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-04-28T23:27:22Z",
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4562
+            "stars": 4560
           }
         }
       ],
@@ -130,7 +130,7 @@
             "last_commit": "2025-11-16T14:11:37Z",
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6525
+            "stars": 6524
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:39:17.702Z",
+    "last_updated": "2026-08-14T13:34:33.425Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
     "enhanced_repository": "enhansome/enhansome-npm-scripts",
