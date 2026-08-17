@@ -14,7 +14,7 @@
             "last_commit": "2026-08-05T08:42:59Z",
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 434
+            "stars": 435
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T12:56:49.381Z",
+    "last_updated": "2026-08-17T13:02:18.175Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
     "enhanced_repository": "enhansome/enhansome-npm-scripts",
