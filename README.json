@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300367411,
             "language": "JavaScript",
             "last_commit": "2026-08-05T08:42:59Z",
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 435
+            "stars": 436
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56325866,
             "language": "JavaScript",
             "last_commit": "2026-07-20T20:12:55Z",
             "owner": "coderaiser",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51582073,
             "language": "CoffeeScript",
             "last_commit": "2018-08-13T09:10:23Z",
             "owner": "paulpflug",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 996158,
             "language": "JavaScript",
             "last_commit": "2023-01-22T07:55:38Z",
             "owner": "mikeal",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16022081,
             "language": "TypeScript",
             "last_commit": "2026-06-18T20:53:10Z",
             "owner": "Qard",
@@ -83,7 +88,7 @@
       "title": "File Watchers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1908577,
             "language": "JavaScript",
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14207
+            "stars": 14208
           }
         },
         {
@@ -106,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7166430,
             "language": "JavaScript",
             "last_commit": "2024-04-28T23:27:22Z",
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4560
+            "stars": 4561
           }
         }
       ],
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43512914,
             "language": "TypeScript",
             "last_commit": "2025-11-16T14:11:37Z",
             "owner": "kentcdodds",
@@ -140,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1341324,
             "language": "TypeScript",
             "last_commit": "2026-05-15T19:38:06Z",
             "owner": "isaacs",
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17913659,
             "language": "JavaScript",
             "last_commit": "2024-07-11T00:08:12Z",
             "owner": "calvinmetcalf",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48960698,
             "language": "JavaScript",
             "last_commit": "2026-02-05T07:39:28Z",
             "owner": "sindresorhus",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47516687,
             "language": "JavaScript",
             "last_commit": "2025-09-18T16:41:04Z",
             "owner": "sindresorhus",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6080847,
             "language": "JavaScript",
             "last_commit": "2021-05-26T19:23:27Z",
             "owner": "davglass",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53193342,
             "language": "JavaScript",
             "last_commit": "2021-10-13T15:59:55Z",
             "owner": "sindresorhus",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88134343,
             "language": "TypeScript",
             "last_commit": "2026-06-09T03:11:46Z",
             "owner": "milewski",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30430136,
             "language": "JavaScript",
             "last_commit": "2018-10-17T13:57:16Z",
             "owner": "byteclubfr",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37563734,
             "language": "JavaScript",
             "last_commit": "2019-05-25T23:06:16Z",
             "owner": "stefanmaric",
@@ -266,30 +283,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56384906,
             "language": "JavaScript",
             "last_commit": "2021-12-01T23:32:39Z",
             "owner": "iamakulov",
             "repo": "echo-cli",
             "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mkdirp",
-          "description": "Create a directory, creating parent directories if needed; like .",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "catw",
-          "description": "Print a file to stdout, with optional watch mode; sorta like Unix .",
-          "children": []
         }
       ],
       "title": "Cross-platform Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -298,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38263069,
             "language": "JavaScript",
             "last_commit": "2026-03-25T16:39:20Z",
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 448
+            "stars": 449
           }
         },
         {
@@ -312,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40907772,
             "language": "JavaScript",
             "last_commit": "2021-11-23T07:55:08Z",
             "owner": "sindresorhus",
@@ -326,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25962131,
             "language": "JavaScript",
             "last_commit": "2020-05-24T20:05:10Z",
             "owner": "keithamus",
@@ -340,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119104716,
             "language": "JavaScript",
             "last_commit": "2023-07-19T22:29:02Z",
             "owner": "micromata",
@@ -354,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44274239,
             "language": "JavaScript",
             "last_commit": "2016-08-24T21:31:52Z",
             "owner": "heldr",
@@ -368,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85604913,
             "language": "JavaScript",
             "last_commit": "2026-08-11T14:20:13Z",
             "owner": "thompsonemerson",
@@ -379,7 +391,7 @@
       "title": "Other Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -388,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51282204,
             "language": "JavaScript",
             "last_commit": "2024-05-23T13:18:51Z",
             "owner": "ruyadorno",
@@ -402,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61893672,
             "language": "Vue",
             "last_commit": "2019-01-31T17:55:14Z",
             "owner": "forrest-app",
@@ -416,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18980486,
             "language": "JavaScript",
             "last_commit": "2018-11-14T15:00:58Z",
             "owner": "timoxley",
@@ -430,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47094417,
             "language": "JavaScript",
             "last_commit": "2022-01-11T21:46:39Z",
             "owner": "bahmutov",
@@ -444,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47433886,
             "language": "JavaScript",
             "last_commit": "2018-11-27T15:36:35Z",
             "owner": "samueleaton",
@@ -458,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72573761,
             "language": "JavaScript",
             "last_commit": "2022-12-24T19:43:22Z",
             "owner": "RyanZim",
@@ -467,16 +485,12 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "See CONTRIBUTING.md.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:03:41.948Z",
+    "last_updated": "2026-08-19T12:44:19.344Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
+    "original_repository_id": 67639215,
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
     "enhanced_repository": "enhansome/enhansome-npm-scripts",
     "enhanced_repository_description": null,

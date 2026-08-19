@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) �
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 435 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-05 - Fully featured task runner.
+* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 436 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-05 - Fully featured task runner.
 * [redrun](https://github.com/coderaiser/redrun) ⭐ 128 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Expand scripts from package.json to improve execution speed.
 * [script-runner](https://github.com/paulpflug/script-runner) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-08-13 - Simple task runner with a terse syntax.
 
@@ -60,8 +60,8 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,207 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
-* [live-server](https://github.com/tapio/live-server) ⭐ 4,560 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,208 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [live-server](https://github.com/tapio/live-server) ⭐ 4,561 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
@@ -87,7 +87,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ## Other Utilities
 
-* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 448 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-25 - Open websites, files, executables, etc. with the user's preferred application.
+* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 449 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-25 - Open websites, files, executables, etc. with the user's preferred application.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) ⭐ 193 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-23 - Get the gzipped size of a file or stdin.
 * [hashmark](https://github.com/keithamus/hashmark) ⭐ 190 | 🐛 8 | 🌐 JavaScript | 📅 2020-05-24 -  Take contents of a file and output as new file with a hash in the name.
 * [cli-error-notifier](https://github.com/micromata/cli-error-notifier) ⭐ 72 | 🐛 10 | 🌐 JavaScript | 📅 2023-07-19 - Send native desktop notifications when npm scripts fail.
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
