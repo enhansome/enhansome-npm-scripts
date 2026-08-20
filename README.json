@@ -153,7 +153,7 @@
             "last_commit": "2026-05-15T19:38:06Z",
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5848
+            "stars": 5849
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2021-10-13T15:59:55Z",
             "owner": "sindresorhus",
             "repo": "clear-cli",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -488,7 +488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:04:36.754Z",
+    "last_updated": "2026-08-20T13:06:43.623Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_id": 67639215,
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
