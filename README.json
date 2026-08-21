@@ -102,7 +102,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14208
+            "stars": 14209
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-05-15T19:38:06Z",
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5849
+            "stars": 5850
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-07-11T00:08:12Z",
             "owner": "calvinmetcalf",
             "repo": "copyfiles",
-            "stars": 423
+            "stars": 421
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-03-25T16:39:20Z",
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 449
+            "stars": 448
           }
         },
         {
@@ -488,7 +488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:06:43.623Z",
+    "last_updated": "2026-08-21T13:06:05.041Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_id": 67639215,
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
