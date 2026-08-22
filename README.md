@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) �
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 436 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-05 - Fully featured task runner.
+* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 436 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-05 - Fully featured task runner.
 * [redrun](https://github.com/coderaiser/redrun) ⭐ 128 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Expand scripts from package.json to improve execution speed.
 * [script-runner](https://github.com/paulpflug/script-runner) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-08-13 - Simple task runner with a terse syntax.
 
@@ -83,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,869 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,870 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
