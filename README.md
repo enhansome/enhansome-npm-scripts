@@ -60,7 +60,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,209 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,208 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
 * [live-server](https://github.com/tapio/live-server) ⭐ 4,561 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
