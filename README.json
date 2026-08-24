@@ -290,6 +290,28 @@
             "repo": "echo-cli",
             "stars": 6
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shx",
+              "description": "Collection of common Unix utilities implemented in Node.js; example usage: .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51710581,
+                "language": "JavaScript",
+                "last_commit": "2026-06-08T05:16:38Z",
+                "owner": "shelljs",
+                "repo": "shx",
+                "stars": 1870
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utility Packs"
         }
       ],
       "title": "Cross-platform Utilities"
@@ -488,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:08:54.088Z",
+    "last_updated": "2026-08-24T14:17:52.217Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_id": 67639215,
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
