@@ -102,7 +102,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239
+            "stars": 14232
           }
         },
         {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:24.133Z",
+    "last_updated": "2026-08-25T13:06:16.017Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_id": 67639215,
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
