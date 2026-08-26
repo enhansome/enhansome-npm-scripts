@@ -30,7 +30,7 @@
             "last_commit": "2026-07-20T20:12:55Z",
             "owner": "coderaiser",
             "repo": "redrun",
-            "stars": 128
+            "stars": 127
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14232
+            "stars": 14233
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-04-28T23:27:22Z",
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4561
+            "stars": 4562
           }
         }
       ],
@@ -331,7 +331,7 @@
             "last_commit": "2026-03-25T16:39:20Z",
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 448
+            "stars": 449
           }
         },
         {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:06:16.017Z",
+    "last_updated": "2026-08-26T13:11:19.057Z",
     "original_repository": "RyanZim/awesome-npm-scripts",
     "original_repository_id": 67639215,
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
