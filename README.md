@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) �
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 437 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-05 - Fully featured task runner.
+* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 437 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-26 - Fully featured task runner.
 * [redrun](https://github.com/coderaiser/redrun) ⭐ 127 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Expand scripts from package.json to improve execution speed.
 * [script-runner](https://github.com/paulpflug/script-runner) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-08-13 - Simple task runner with a terse syntax.
 
@@ -60,15 +60,15 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,233 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
-* [live-server](https://github.com/tapio/live-server) ⭐ 4,562 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,230 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [live-server](https://github.com/tapio/live-server) ⭐ 4,563 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,851 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 421 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
 * [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - File/directory copying/renaming.
 * [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-18 - Safer file and folder deletion.
@@ -83,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,870 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,871 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
