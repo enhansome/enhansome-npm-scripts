@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)",
+            "homepage": null,
             "id": 300367411,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:37:08Z",
+            "open_issues": 3,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 438
+            "stars": 438,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -26,12 +31,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨🐌 🐎✨  fastest npm scripts runner",
+            "homepage": null,
             "id": 56325866,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T20:12:55Z",
+            "open_issues": 0,
             "owner": "coderaiser",
             "repo": "redrun",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "cli",
+              "cli-command",
+              "multi-platform",
+              "nodejs",
+              "npm",
+              "npm-run-all",
+              "npm-scripts",
+              "parallel",
+              "parser",
+              "series",
+              "shell",
+              "task-runner"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -42,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Invoke multiple commands, running in parallel / sequential, matching npm scripts",
+            "homepage": null,
             "id": 51582073,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2018-08-13T09:10:23Z",
+            "open_issues": 0,
             "owner": "paulpflug",
             "repo": "script-runner",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         }
@@ -64,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for watching file trees in node.js",
+            "homepage": null,
             "id": 996158,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-22T07:55:38Z",
+            "open_issues": 59,
             "owner": "mikeal",
             "repo": "watch",
-            "stars": 1280
+            "stars": 1280,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -80,12 +113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.",
+            "homepage": null,
             "id": 16022081,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T20:53:10Z",
+            "open_issues": 5,
             "owner": "Qard",
             "repo": "onchange",
-            "stars": 826
+            "stars": 826,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         }
@@ -102,12 +140,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, zero-configuration, command-line http server",
+            "homepage": null,
             "id": 1908577,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T11:09:09Z",
+            "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14230
+            "stars": 14229,
+            "topics": [
+              "command-line",
+              "hacktoberfest",
+              "hosting",
+              "http",
+              "http-server",
+              "server",
+              "static",
+              "static-server"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -118,12 +170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple development http server with live reload capability.",
+            "homepage": "http://tapiov.net/live-server/",
             "id": 7166430,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-28T23:27:22Z",
+            "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4563
+            "stars": 4563,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         }
@@ -140,12 +197,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🔀 Cross platform setting of environment scripts",
+            "homepage": "https://www.npmjs.com/package/cross-env",
             "id": 43512914,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-16T14:11:37Z",
+            "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6524
+            "stars": 6524,
+            "topics": [
+              "cross-env",
+              "cross-platform",
+              "environment",
+              "macos",
+              "unix",
+              "variables",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -156,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A `rm -rf` util for nodejs",
+            "homepage": null,
             "id": 1341324,
             "language": "TypeScript",
+            "license": "BlueOak-1.0.0",
             "last_commit": "2026-05-15T19:38:06Z",
+            "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5852
+            "stars": 5852,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -172,12 +247,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "copy files on the command line",
+            "homepage": null,
             "id": 17913659,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-11T00:08:12Z",
+            "open_issues": 56,
             "owner": "calvinmetcalf",
             "repo": "copyfiles",
-            "stars": 421
+            "stars": 421,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -188,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copy files",
+            "homepage": null,
             "id": 48960698,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-05T07:39:28Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "cpy-cli",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -204,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delete files and directories",
+            "homepage": null,
             "id": 47516687,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-18T16:41:04Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "del-cli",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -220,12 +312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nodejs cp -R",
+            "homepage": null,
             "id": 6080847,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-26T19:23:27Z",
+            "open_issues": 19,
             "owner": "davglass",
             "repo": "cpr",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -236,12 +333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clear the terminal cross-platform",
+            "homepage": null,
             "id": 53193342,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-13T15:59:55Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "clear-cli",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -252,12 +354,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allow adding OS-specific scripts in your package.json!",
+            "homepage": null,
             "id": 88134343,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-09T03:11:46Z",
+            "open_issues": 2,
             "owner": "milewski",
             "repo": "cross-os",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "cross-env",
+              "cross-platform",
+              "cross-script",
+              "npm-scripts",
+              "os-specific"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -268,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synchronize files or folders locally, with a watch option",
+            "homepage": null,
             "id": 30430136,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-17T13:57:16Z",
+            "open_issues": 10,
             "owner": "byteclubfr",
             "repo": "node-sync-files",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -284,12 +402,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portable Unix shell command 'tee', with some extras - read from standard input and write to standard output and files",
+            "homepage": "https://www.npmjs.com/package/ntee",
             "id": 37563734,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-25T23:06:16Z",
+            "open_issues": 0,
             "owner": "stefanmaric",
             "repo": "ntee",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "npm",
+              "npm-scripts",
+              "ntee",
+              "pipe",
+              "shell",
+              "stdin",
+              "stdout",
+              "tee"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -300,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform CLI for outputting text to terminal. Supports escape sequences",
+            "homepage": null,
             "id": 56384906,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-01T23:32:39Z",
+            "open_issues": 2,
             "owner": "iamakulov",
             "repo": "echo-cli",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -318,12 +455,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable Shell Commands for Node",
+                "homepage": null,
                 "id": 51710581,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-08T05:16:38Z",
+                "open_issues": 21,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1871
+                "stars": 1871,
+                "topics": [
+                  "bash",
+                  "shelljs",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T22:13:45.705Z"
             }
@@ -345,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open stuff like URLs, files, executables. Cross-platform.",
+            "homepage": null,
             "id": 38263069,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-25T16:39:20Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 449
+            "stars": 449,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -361,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get the gzipped size of a file or stdin",
+            "homepage": null,
             "id": 40907772,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-23T07:55:08Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gzip-size-cli",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -377,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take contents of a file (or stdin), and output as new file with a hash in the name",
+            "homepage": null,
             "id": 25962131,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-24T20:05:10Z",
+            "open_issues": 8,
             "owner": "keithamus",
             "repo": "hashmark",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -393,12 +554,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sends native desktop notifications if CLI apps fail",
+            "homepage": "https://labs.micromata.de",
             "id": 119104716,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-19T22:29:02Z",
+            "open_issues": 10,
             "owner": "micromata",
             "repo": "cli-error-notifier",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "cli",
+              "cli-apps",
+              "cli-error-notifier",
+              "desktop-notifications",
+              "error-handling",
+              "node-js",
+              "node-notifier",
+              "notification-center",
+              "notifier",
+              "notify",
+              "npm-scripts",
+              "watch-files"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -409,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds header / banner info to a file. Nice to use as npm script :)",
+            "homepage": null,
             "id": 44274239,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-24T21:31:52Z",
+            "open_issues": 3,
             "owner": "heldr",
             "repo": "headr",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -425,12 +609,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a vendor with all dependencies bower using CLI",
+            "homepage": null,
             "id": 85604913,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-11T14:20:13Z",
+            "open_issues": 1,
             "owner": "thompsonemerson",
             "repo": "bower-files-cli",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bower",
+              "bower-files",
+              "cli",
+              "npm",
+              "npm-scripts"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         }
@@ -447,12 +642,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node Task List: Interactive cli to list and run package.json scripts",
+            "homepage": "https://www.npmjs.com/package/ntl",
             "id": 51282204,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-23T13:18:51Z",
+            "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 963
+            "stars": 963,
+            "topics": [
+              "cli",
+              "command-line",
+              "javascript",
+              "js",
+              "nodejs",
+              "npm",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -463,12 +671,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An npm scripts desktop client",
+            "homepage": null,
             "id": 61893672,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2019-01-31T17:55:14Z",
+            "open_issues": 11,
             "owner": "forrest-app",
             "repo": "forrest",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "electron",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -479,12 +695,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run locally-installed node module executables.",
+            "homepage": null,
             "id": 18980486,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-14T15:00:58Z",
+            "open_issues": 6,
             "owner": "timoxley",
             "repo": "npm-run",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "command-line",
+              "javascript",
+              "nodejs",
+              "npm",
+              "npm-scripts"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -495,12 +722,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly run NPM script by prefix without typing the full name",
+            "homepage": null,
             "id": 47094417,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-11T21:46:39Z",
+            "open_issues": 6,
             "owner": "bahmutov",
             "repo": "npm-quick-run",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "cli",
+              "npm",
+              "quick",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -511,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The npm scripts GUI",
+            "homepage": "https://www.npmjs.com/package/screwy",
             "id": 47433886,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-27T15:36:35Z",
+            "open_issues": 7,
             "owner": "samueleaton",
             "repo": "screwy",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         },
@@ -527,12 +769,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edit npm scripts from the command line without worrying about JSON escaping.",
+            "homepage": null,
             "id": 72573761,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-24T19:43:22Z",
+            "open_issues": 0,
             "owner": "RyanZim",
             "repo": "edit-script",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "npm",
+              "npm-scripts"
+            ]
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
         }
@@ -541,15 +791,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:13:45.705Z",
+    "last_updated": "2026-08-29T04:39:56.234Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Everything awesome related to npm scripts and using npm as a build tool.",
+      "homepage": null,
       "id": 67639215,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-23T16:34:43Z",
+      "open_issues": 1,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 742
+      "stars": 742,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "npm",
+        "task-runner"
+      ]
     },
     "original_repository_sha": "33b464282adae38076e41a94e8d8dbbc55ba4597",
     "enhanced_repository": "enhansome/enhansome-npm-scripts",
