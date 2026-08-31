@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) �
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 439 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-26 - Fully featured task runner.
+* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 440 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-31 - Fully featured task runner.
 * [redrun](https://github.com/coderaiser/redrun) ⭐ 127 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Expand scripts from package.json to improve execution speed.
 * [script-runner](https://github.com/paulpflug/script-runner) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-08-13 - Simple task runner with a terse syntax.
 
@@ -60,7 +60,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,228 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,230 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
 * [live-server](https://github.com/tapio/live-server) ⭐ 4,563 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
@@ -99,7 +99,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 * [ntl](https://github.com/ruyadorno/ntl) ⭐ 963 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
 * [Forrest](https://github.com/stefanjudis/forrest) ⭐ 339 | 🐛 11 | 🌐 Vue | 📅 2019-01-31 - npm scripts desktop client.
 * [run-npm](https://github.com/timoxley/npm-run) ⭐ 187 | 🐛 6 | 🌐 JavaScript | 📅 2018-11-14 - Run locally-installed node module executables. Useful for debugging npm scripts.
-* [npm-quick-run](https://github.com/bahmutov/npm-quick-run) ⭐ 147 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-11 - Quickly run npm scripts by prefix without typing the full name.
+* [npm-quick-run](https://github.com/bahmutov/npm-quick-run) ⭐ 148 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-11 - Quickly run npm scripts by prefix without typing the full name.
 * [screwy](https://github.com/samueleaton/screwy) ⚠️ Archived - The npm scripts GUI.
 * [edit-script](https://github.com/RyanZim/edit-script) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-24 - Edit npm scripts from the command line without worrying about JSON escaping.
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
