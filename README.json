@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14230,
+            "stars": 14231,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -651,7 +651,7 @@
             "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "cli",
               "command-line",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:06:27.815Z",
+    "last_updated": "2026-09-01T16:33:08.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -803,7 +803,7 @@
       "open_issues": 1,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 742,
+      "stars": 741,
       "topics": [
         "awesome",
         "awesome-list",
