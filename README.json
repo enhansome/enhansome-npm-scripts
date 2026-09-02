@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T16:58:11Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
             "stars": 440,
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6523,
+            "stars": 6524,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -235,7 +235,7 @@
             "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5851,
+            "stars": 5852,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:33:08.883Z",
+    "last_updated": "2026-09-02T16:29:58.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
