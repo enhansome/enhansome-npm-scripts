@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4564,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:20:34.932Z",
+    "last_updated": "2026-09-04T16:16:20.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -803,7 +803,7 @@
       "open_issues": 1,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 741,
+      "stars": 742,
       "topics": [
         "awesome",
         "awesome-list",

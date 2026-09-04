@@ -61,7 +61,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 ## Dev Servers
 
 * [http-server](https://github.com/indexzero/http-server) ⭐ 14,234 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
-* [live-server](https://github.com/tapio/live-server) ⭐ 4,564 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
+* [live-server](https://github.com/tapio/live-server) ⭐ 4,565 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
@@ -126,8 +126,8 @@ You can use `npm run-script` or `npm run`; they both do the same thing, but `npm
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md) ⭐ 741 | 🐛 1 | 📅 2026-07-23.
+See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md) ⭐ 742 | 🐛 1 | 📅 2026-07-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
