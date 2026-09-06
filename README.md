@@ -126,8 +126,8 @@ You can use `npm run-script` or `npm run`; they both do the same thing, but `npm
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md) ⭐ 742 | 🐛 1 | 📅 2026-07-23.
+See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md) ⭐ 741 | 🐛 1 | 📅 2026-07-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
