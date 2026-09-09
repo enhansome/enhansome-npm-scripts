@@ -101,7 +101,7 @@
             "open_issues": 59,
             "owner": "mikeal",
             "repo": "watch",
-            "stars": 1280,
+            "stars": 1279,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14235,
+            "stars": 14234,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4565,
+            "stars": 4564,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6523,
+            "stars": 6522,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -235,7 +235,7 @@
             "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5850,
+            "stars": 5849,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -279,7 +279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "cpy-cli",
-            "stars": 360,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -464,7 +464,7 @@
                 "open_issues": 21,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1873,
+                "stars": 1872,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 451,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -651,7 +651,7 @@
             "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 964,
+            "stars": 963,
             "topics": [
               "cli",
               "command-line",
@@ -680,7 +680,7 @@
             "open_issues": 11,
             "owner": "forrest-app",
             "repo": "forrest",
-            "stars": 339,
+            "stars": 338,
             "topics": [
               "electron",
               "vue"
@@ -704,7 +704,7 @@
             "open_issues": 6,
             "owner": "timoxley",
             "repo": "npm-run",
-            "stars": 187,
+            "stars": 186,
             "topics": [
               "command-line",
               "javascript",
@@ -757,7 +757,7 @@
             "open_issues": 7,
             "owner": "samueleaton",
             "repo": "screwy",
-            "stars": 113,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:33:31.150Z",
+    "last_updated": "2026-09-09T16:33:08.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",

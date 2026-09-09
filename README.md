@@ -6,7 +6,7 @@
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20.
+You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,735 | 🐛 1 | 📅 2026-04-20.
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.github.io/). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -55,22 +55,22 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-* [watch](https://github.com/mikeal/watch) ⭐ 1,280 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-22 - `watch <command> <directory>`.
+* [watch](https://github.com/mikeal/watch) ⭐ 1,279 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-22 - `watch <command> <directory>`.
 * [onchange](https://github.com/Qard/onchange) ⭐ 826 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-18 - `onchange <glob> -- <command>`.
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,235 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
-* [live-server](https://github.com/tapio/live-server) ⭐ 4,565 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,234 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [live-server](https://github.com/tapio/live-server) ⭐ 4,564 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,850 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,849 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 421 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
-* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - File/directory copying/renaming.
+* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 359 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - File/directory copying/renaming.
 * [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-18 - Safer file and folder deletion.
 * [cpr](https://github.com/davglass/cpr) ⭐ 82 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-26 - `cp -r` for Node.js.
 * [clear-cli](https://github.com/sindresorhus/clear-cli) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-13 - Clear the terminal.
@@ -83,11 +83,11 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,873 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,872 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
-* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-25 - Open websites, files, executables, etc. with the user's preferred application.
+* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-25 - Open websites, files, executables, etc. with the user's preferred application.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) ⭐ 193 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-23 - Get the gzipped size of a file or stdin.
 * [hashmark](https://github.com/keithamus/hashmark) ⭐ 190 | 🐛 8 | 🌐 JavaScript | 📅 2020-05-24 -  Take contents of a file and output as new file with a hash in the name.
 * [cli-error-notifier](https://github.com/micromata/cli-error-notifier) ⭐ 72 | 🐛 10 | 🌐 JavaScript | 📅 2023-07-19 - Send native desktop notifications when npm scripts fail.
@@ -96,9 +96,9 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ## Miscellaneous
 
-* [ntl](https://github.com/ruyadorno/ntl) ⭐ 964 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
-* [Forrest](https://github.com/stefanjudis/forrest) ⭐ 339 | 🐛 11 | 🌐 Vue | 📅 2019-01-31 - npm scripts desktop client.
-* [run-npm](https://github.com/timoxley/npm-run) ⭐ 187 | 🐛 6 | 🌐 JavaScript | 📅 2018-11-14 - Run locally-installed node module executables. Useful for debugging npm scripts.
+* [ntl](https://github.com/ruyadorno/ntl) ⭐ 963 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
+* [Forrest](https://github.com/stefanjudis/forrest) ⭐ 338 | 🐛 11 | 🌐 Vue | 📅 2019-01-31 - npm scripts desktop client.
+* [run-npm](https://github.com/timoxley/npm-run) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2018-11-14 - Run locally-installed node module executables. Useful for debugging npm scripts.
 * [npm-quick-run](https://github.com/bahmutov/npm-quick-run) ⭐ 148 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-11 - Quickly run npm scripts by prefix without typing the full name.
 * [screwy](https://github.com/samueleaton/screwy) ⚠️ Archived - The npm scripts GUI.
 * [edit-script](https://github.com/RyanZim/edit-script) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-24 - Edit npm scripts from the command line without worrying about JSON escaping.
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
