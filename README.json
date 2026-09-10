@@ -15,8 +15,8 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:58:11Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-10T08:43:44Z",
+            "open_issues": 5,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
             "stars": 440,
@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4564,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6522,
+            "stars": 6523,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -235,7 +235,7 @@
             "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5849,
+            "stars": 5848,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -497,7 +497,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-25T16:39:20Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "open-cli",
             "stars": 450,
@@ -651,7 +651,7 @@
             "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 963,
+            "stars": 962,
             "topics": [
               "cli",
               "command-line",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:33:08.058Z",
+    "last_updated": "2026-09-10T16:19:21.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
