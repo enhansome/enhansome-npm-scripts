@@ -15,8 +15,8 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:43:44Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-10T22:34:35Z",
+            "open_issues": 4,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
             "stars": 440,
@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14234,
+            "stars": 14233,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -497,7 +497,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-25T16:39:20Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "open-cli",
             "stars": 450,
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:19:21.213Z",
+    "last_updated": "2026-09-11T16:23:14.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
