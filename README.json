@@ -464,7 +464,7 @@
                 "open_issues": 21,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1872,
+                "stars": 1871,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:27:37.748Z",
+    "last_updated": "2026-09-13T16:10:01.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",

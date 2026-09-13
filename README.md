@@ -83,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,872 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,871 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
