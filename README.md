@@ -55,7 +55,7 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-* [watch](https://github.com/mikeal/watch) ⭐ 1,278 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-22 - `watch <command> <directory>`.
+* [watch](https://github.com/mikeal/watch) ⭐ 1,279 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-22 - `watch <command> <directory>`.
 * [onchange](https://github.com/Qard/onchange) ⭐ 826 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-18 - `onchange <glob> -- <command>`.
 
 ## Dev Servers
@@ -83,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,871 | 🐛 21 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,871 | 🐛 22 | 🌐 JavaScript | 📅 2026-06-08 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
