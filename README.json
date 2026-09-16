@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14235,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -464,7 +464,7 @@
                 "open_issues": 22,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1871,
+                "stars": 1872,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T16:51:21.517Z",
+    "last_updated": "2026-09-16T16:46:01.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
