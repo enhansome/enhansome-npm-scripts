@@ -60,8 +60,8 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,239 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
-* [live-server](https://github.com/tapio/live-server) ⭐ 4,564 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,237 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [live-server](https://github.com/tapio/live-server) ⭐ 4,565 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
@@ -70,8 +70,8 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,849 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 421 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
-* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 359 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - File/directory copying/renaming.
-* [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-18 - Safer file and folder deletion.
+* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 359 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
+* [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 332 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Safer file and folder deletion.
 * [cpr](https://github.com/davglass/cpr) ⭐ 82 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-26 - `cp -r` for Node.js.
 * [clear-cli](https://github.com/sindresorhus/clear-cli) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-13 - Clear the terminal.
 * [cross-os](https://github.com/milewski/cross-os) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-09 - Run platform-specific npm scripts.
@@ -87,7 +87,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ## Other Utilities
 
-* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-25 - Open websites, files, executables, etc. with the user's preferred application.
+* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 451 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Open websites, files, executables, etc. with the user's preferred application.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) ⭐ 193 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-23 - Get the gzipped size of a file or stdin.
 * [hashmark](https://github.com/keithamus/hashmark) ⭐ 190 | 🐛 8 | 🌐 JavaScript | 📅 2020-05-24 -  Take contents of a file and output as new file with a hash in the name.
 * [cli-error-notifier](https://github.com/micromata/cli-error-notifier) ⭐ 72 | 🐛 10 | 🌐 JavaScript | 📅 2023-07-19 - Send native desktop notifications when npm scripts fail.
@@ -96,7 +96,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ## Miscellaneous
 
-* [ntl](https://github.com/ruyadorno/ntl) ⭐ 962 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
+* [ntl](https://github.com/ruyadorno/ntl) ⭐ 963 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
 * [Forrest](https://github.com/stefanjudis/forrest) ⭐ 338 | 🐛 11 | 🌐 Vue | 📅 2019-01-31 - npm scripts desktop client.
 * [run-npm](https://github.com/timoxley/npm-run) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2018-11-14 - Run locally-installed node module executables. Useful for debugging npm scripts.
 * [npm-quick-run](https://github.com/bahmutov/npm-quick-run) ⭐ 148 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-11 - Quickly run npm scripts by prefix without typing the full name.
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
