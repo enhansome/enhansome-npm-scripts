@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4565,
+            "stars": 4563,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -256,7 +256,7 @@
             "open_issues": 56,
             "owner": "calvinmetcalf",
             "repo": "copyfiles",
-            "stars": 421,
+            "stars": 420,
             "topics": [
               "hacktoberfest"
             ]
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T15:49:23.997Z",
+    "last_updated": "2026-09-20T15:58:34.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
