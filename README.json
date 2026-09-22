@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-17T08:43:38Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
             "stars": 440,
@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14237,
+            "stars": 14240,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4561,
+            "stars": 4560,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:11:08.727Z",
+    "last_updated": "2026-09-22T16:50:41.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
