@@ -6,7 +6,7 @@
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,739 | 🐛 1 | 📅 2026-04-20.
+You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,740 | 🐛 1 | 📅 2026-04-20.
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.github.io/). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) �
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 440 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17 - Fully featured task runner.
+* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 440 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-17 - Fully featured task runner.
 * [redrun](https://github.com/coderaiser/redrun) ⭐ 127 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Expand scripts from package.json to improve execution speed.
 * [script-runner](https://github.com/paulpflug/script-runner) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-08-13 - Simple task runner with a terse syntax.
 
@@ -60,7 +60,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,237 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,236 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
 * [live-server](https://github.com/tapio/live-server) ⭐ 4,560 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
@@ -83,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,872 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-17 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,873 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-17 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
