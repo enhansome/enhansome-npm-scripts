@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14238,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -176,10 +176,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-04-28T23:27:22Z",
-            "open_issues": 213,
+            "open_issues": 214,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4561,
+            "stars": 4562,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6523,
+            "stars": 6522,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -542,7 +542,7 @@
             "open_issues": 8,
             "owner": "keithamus",
             "repo": "hashmark",
-            "stars": 190,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:02:12.179Z",
+    "last_updated": "2026-09-30T17:58:12.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
