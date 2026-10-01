@@ -6,7 +6,7 @@
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20.
+You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,742 | 🐛 1 | 📅 2026-04-20.
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.github.io/). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -61,7 +61,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 ## Dev Servers
 
 * [http-server](https://github.com/indexzero/http-server) ⭐ 14,237 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
-* [live-server](https://github.com/tapio/live-server) ⭐ 4,562 | 🐛 214 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
+* [live-server](https://github.com/tapio/live-server) ⭐ 4,562 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

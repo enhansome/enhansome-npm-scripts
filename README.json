@@ -176,7 +176,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-04-28T23:27:22Z",
-            "open_issues": 214,
+            "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
             "stars": 4562,
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T17:58:12.880Z",
+    "last_updated": "2026-10-01T18:23:10.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
