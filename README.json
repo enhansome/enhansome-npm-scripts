@@ -88,7 +88,7 @@
         {
           "node_type": "item",
           "title": "watch",
-          "description": ".",
+          "description": "mikeal/watch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
         {
           "node_type": "item",
           "title": "onchange",
-          "description": ".",
+          "description": "Qard/onchange",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6522,
+            "stars": 6521,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:49:27.269Z",
+    "last_updated": "2026-10-03T04:59:23.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",

@@ -6,7 +6,7 @@
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,743 | 🐛 1 | 📅 2026-04-20.
+You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20.
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.github.io/). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -126,8 +126,8 @@ You can use `npm run-script` or `npm run`; they both do the same thing, but `npm
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md) ⭐ 742 | 🐛 1 | 📅 2026-07-23.
+See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master/CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
