@@ -149,7 +149,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14236,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:59:23.674Z",
+    "last_updated": "2026-10-03T16:10:21.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
