@@ -60,7 +60,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,238 | 🐛 109 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,236 | 🐛 109 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
 * [live-server](https://github.com/tapio/live-server) ⭐ 4,562 | 🐛 213 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
@@ -68,7 +68,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,853 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,854 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 420 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
 * [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
 * [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Safer file and folder deletion.
@@ -83,7 +83,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-* [shx](https://github.com/shelljs/shx) ⭐ 1,873 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-17 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+* [shx](https://github.com/shelljs/shx) ⭐ 1,874 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-17 - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 

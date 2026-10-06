@@ -149,7 +149,7 @@
             "open_issues": 109,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14238,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -235,7 +235,7 @@
             "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5853,
+            "stars": 5854,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -464,7 +464,7 @@
                 "open_issues": 21,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:08:10.799Z",
+    "last_updated": "2026-10-06T18:17:53.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -803,7 +803,7 @@
       "open_issues": 1,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 742,
+      "stars": 743,
       "topics": [
         "awesome",
         "awesome-list",
