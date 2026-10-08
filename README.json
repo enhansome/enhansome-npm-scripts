@@ -122,7 +122,7 @@
             "open_issues": 5,
             "owner": "Qard",
             "repo": "onchange",
-            "stars": 826,
+            "stars": 825,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -149,7 +149,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14236,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4562,
+            "stars": 4563,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -296,7 +296,7 @@
             "id": 47516687,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:04:34Z",
+            "last_commit": "2026-10-08T17:44:06Z",
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "del-cli",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T18:52:13.537Z",
+    "last_updated": "2026-10-08T18:48:12.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
