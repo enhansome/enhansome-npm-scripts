@@ -47,7 +47,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) �
 
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
-* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 440 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-09 - Fully featured task runner.
+* [npm-run-all2](https://github.com/bcomnes/npm-run-all2) ⭐ 441 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-09 - Fully featured task runner.
 * [redrun](https://github.com/coderaiser/redrun) ⭐ 127 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Expand scripts from package.json to improve execution speed.
 * [script-runner](https://github.com/paulpflug/script-runner) ⭐ 27 | 🐛 0 | 🌐 CoffeeScript | 📅 2018-08-13 - Simple task runner with a terse syntax.
 
@@ -70,7 +70,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,855 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 420 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
-* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
+* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 359 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
 * [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Safer file and folder deletion.
 * [cpr](https://github.com/davglass/cpr) ⭐ 82 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-26 - `cp -r` for Node.js.
 * [clear-cli](https://github.com/sindresorhus/clear-cli) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-13 - Clear the terminal.
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
