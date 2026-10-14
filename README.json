@@ -15,7 +15,7 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T01:08:06Z",
+            "last_commit": "2026-10-14T16:47:03Z",
             "open_issues": 10,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
@@ -149,7 +149,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14235,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4563,
+            "stars": 4562,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -232,7 +232,7 @@
             "language": "TypeScript",
             "license": "BlueOak-1.0.0",
             "last_commit": "2026-05-15T19:38:06Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "isaacs",
             "repo": "rimraf",
             "stars": 5855,
@@ -464,7 +464,7 @@
                 "open_issues": 21,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:12:25.124Z",
+    "last_updated": "2026-10-14T17:03:10.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
