@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-14T16:47:03Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -101,7 +101,7 @@
             "open_issues": 59,
             "owner": "mikeal",
             "repo": "watch",
-            "stars": 1279,
+            "stars": 1281,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -122,7 +122,7 @@
             "open_issues": 5,
             "owner": "Qard",
             "repo": "onchange",
-            "stars": 825,
+            "stars": 824,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -149,7 +149,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14237,
+            "stars": 14238,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6522,
+            "stars": 6521,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:03:10.987Z",
+    "last_updated": "2026-10-15T16:51:55.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
