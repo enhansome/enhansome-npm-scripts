@@ -15,11 +15,11 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:47:03Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-16T08:42:20Z",
+            "open_issues": 13,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 442,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -179,7 +179,7 @@
             "open_issues": 213,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4562,
+            "stars": 4561,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6521,
+            "stars": 6520,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -235,7 +235,7 @@
             "open_issues": 11,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5855,
+            "stars": 5854,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T16:51:55.388Z",
+    "last_updated": "2026-10-16T16:32:30.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
