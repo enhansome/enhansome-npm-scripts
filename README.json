@@ -149,7 +149,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239,
+            "stars": 14241,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -176,7 +176,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-04-28T23:27:22Z",
-            "open_issues": 213,
+            "open_issues": 212,
             "owner": "tapio",
             "repo": "live-server",
             "stars": 4561,
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6521,
+            "stars": 6520,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -614,8 +614,8 @@
             "id": 85604913,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-11T14:20:13Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T11:55:27Z",
+            "open_issues": 2,
             "owner": "thompsonemerson",
             "repo": "bower-files-cli",
             "stars": 3,
@@ -651,7 +651,7 @@
             "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "cli",
               "command-line",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:27:12.402Z",
+    "last_updated": "2026-10-18T15:46:48.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
