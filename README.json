@@ -15,8 +15,8 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T20:43:33Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T08:42:29Z",
+            "open_issues": 6,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
             "stars": 442,
@@ -179,7 +179,7 @@
             "open_issues": 212,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4561,
+            "stars": 4562,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T16:03:59.976Z",
+    "last_updated": "2026-10-26T18:38:49.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -803,7 +803,7 @@
       "open_issues": 2,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 741,
+      "stars": 742,
       "topics": [
         "awesome",
         "awesome-list",
