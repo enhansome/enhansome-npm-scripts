@@ -149,7 +149,7 @@
             "open_issues": 110,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14242,
+            "stars": 14243,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6520,
+            "stars": 6521,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -232,7 +232,7 @@
             "language": "TypeScript",
             "license": "BlueOak-1.0.0",
             "last_commit": "2026-05-15T19:38:06Z",
-            "open_issues": 11,
+            "open_issues": 9,
             "owner": "isaacs",
             "repo": "rimraf",
             "stars": 5856,
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:38:49.896Z",
+    "last_updated": "2026-10-27T17:54:50.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -803,7 +803,7 @@
       "open_issues": 2,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 742,
+      "stars": 741,
       "topics": [
         "awesome",
         "awesome-list",
