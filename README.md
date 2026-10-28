@@ -55,12 +55,12 @@ Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-* [watch](https://github.com/mikeal/watch) ⭐ 1,282 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-22 - `watch <command> <directory>`.
+* [watch](https://github.com/mikeal/watch) ⭐ 1,283 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-22 - `watch <command> <directory>`.
 * [onchange](https://github.com/Qard/onchange) ⭐ 826 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-18 - `onchange <glob> -- <command>`.
 
 ## Dev Servers
 
-* [http-server](https://github.com/indexzero/http-server) ⭐ 14,243 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
+* [http-server](https://github.com/indexzero/http-server) ⭐ 14,244 | 🐛 110 | 🌐 JavaScript | 📅 2026-04-15 - Simple zero-configuration command-line http server.
 * [live-server](https://github.com/tapio/live-server) ⭐ 4,562 | 🐛 212 | 🌐 JavaScript | 📅 2024-04-28 - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
