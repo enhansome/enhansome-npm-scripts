@@ -235,7 +235,7 @@
             "open_issues": 9,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5856,
+            "stars": 5855,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -651,7 +651,7 @@
             "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "cli",
               "command-line",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:24:30.116Z",
+    "last_updated": "2026-10-30T17:57:48.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",

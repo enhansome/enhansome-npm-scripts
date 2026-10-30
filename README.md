@@ -68,7 +68,7 @@ Tools to watch your source files and run a build command whenever any of the fil
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,856 | 🐛 9 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,855 | 🐛 9 | 🌐 TypeScript | 📅 2026-05-15 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 420 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
 * [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 361 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
 * [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Safer file and folder deletion.
@@ -96,7 +96,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ## Miscellaneous
 
-* [ntl](https://github.com/ruyadorno/ntl) ⭐ 965 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
+* [ntl](https://github.com/ruyadorno/ntl) ⭐ 966 | 🐛 26 | 🌐 JavaScript | 📅 2024-05-23 - Interactive cli menu to list and run npm scripts.
 * [Forrest](https://github.com/stefanjudis/forrest) ⭐ 339 | 🐛 11 | 🌐 Vue | 📅 2019-01-31 - npm scripts desktop client.
 * [run-npm](https://github.com/timoxley/npm-run) ⭐ 187 | 🐛 6 | 🌐 JavaScript | 📅 2018-11-14 - Run locally-installed node module executables. Useful for debugging npm scripts.
 * [npm-quick-run](https://github.com/bahmutov/npm-quick-run) ⭐ 148 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-11 - Quickly run npm scripts by prefix without typing the full name.
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
