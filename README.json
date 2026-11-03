@@ -15,8 +15,8 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:05:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-03T08:43:15Z",
+            "open_issues": 7,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
             "stars": 443,
@@ -146,10 +146,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-15T11:09:09Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14243,
+            "stars": 14241,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 212,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4563,
+            "stars": 4564,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -231,11 +231,11 @@
             "id": 1341324,
             "language": "TypeScript",
             "license": "BlueOak-1.0.0",
-            "last_commit": "2026-05-15T19:38:06Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-03T18:32:00Z",
+            "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5855,
+            "stars": 5856,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:40:06.725Z",
+    "last_updated": "2026-11-03T19:26:07.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
