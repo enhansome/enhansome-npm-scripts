@@ -146,10 +146,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-15T11:09:09Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14235,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 212,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4564,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -235,7 +235,7 @@
             "open_issues": 9,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5856,
+            "stars": 5857,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:16:48.879Z",
+    "last_updated": "2026-11-07T17:43:07.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
