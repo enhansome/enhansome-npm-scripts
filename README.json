@@ -149,7 +149,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14235,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -521,7 +521,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gzip-size-cli",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T19:38:33.381Z",
+    "last_updated": "2026-11-11T19:31:07.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -800,10 +800,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-23T16:34:43Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 742,
+      "stars": 743,
       "topics": [
         "awesome",
         "awesome-list",
