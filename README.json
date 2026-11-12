@@ -149,7 +149,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14236,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -235,7 +235,7 @@
             "open_issues": 9,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5857,
+            "stars": 5856,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -560,7 +560,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2023-07-19T22:29:02Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "micromata",
             "repo": "cli-error-notifier",
             "stars": 72,
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:31:07.107Z",
+    "last_updated": "2026-11-12T19:49:56.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
