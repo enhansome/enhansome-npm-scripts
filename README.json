@@ -279,7 +279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "cpy-cli",
-            "stars": 361,
+            "stars": 363,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -300,7 +300,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "del-cli",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 452,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:45:23.997Z",
+    "last_updated": "2026-11-16T21:55:52.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",

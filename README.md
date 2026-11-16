@@ -6,7 +6,7 @@
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,758 | 🐛 1 | 📅 2026-04-20.
+You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,759 | 🐛 1 | 📅 2026-04-20.
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.github.io/). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -70,8 +70,8 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables for scripts, unix-style.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,858 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-03 - Delete files or directories; like `rm -rf`.
 * [copyfiles](https://github.com/calvinmetcalf/copyfiles) ⭐ 420 | 🐛 56 | 🌐 JavaScript | 📅 2024-07-11 - Copy a list of files into a directory.
-* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 361 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
-* [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 333 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Safer file and folder deletion.
+* [cpy-cli](https://github.com/sindresorhus/cpy-cli) ⭐ 363 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - File/directory copying/renaming.
+* [del-cli](https://github.com/sindresorhus/del-cli) ⭐ 334 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-09 - Safer file and folder deletion.
 * [cpr](https://github.com/davglass/cpr) ⭐ 82 | 🐛 19 | 🌐 JavaScript | 📅 2021-05-26 - `cp -r` for Node.js.
 * [clear-cli](https://github.com/sindresorhus/clear-cli) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-13 - Clear the terminal.
 * [cross-os](https://github.com/milewski/cross-os) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2026-06-09 - Run platform-specific npm scripts.
@@ -87,7 +87,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ## Other Utilities
 
-* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 452 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Open websites, files, executables, etc. with the user's preferred application.
+* [opn-cli](https://github.com/sindresorhus/opn-cli) ⭐ 453 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Open websites, files, executables, etc. with the user's preferred application.
 * [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) ⭐ 193 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-23 - Get the gzipped size of a file or stdin.
 * [hashmark](https://github.com/keithamus/hashmark) ⭐ 189 | 🐛 8 | 🌐 JavaScript | 📅 2020-05-24 -  Take contents of a file and output as new file with a hash in the name.
 * [cli-error-notifier](https://github.com/micromata/cli-error-notifier) ⭐ 72 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-19 - Send native desktop notifications when npm scripts fail.
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
