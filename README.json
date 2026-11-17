@@ -614,8 +614,8 @@
             "id": 85604913,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-18T11:55:27Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T12:36:49Z",
+            "open_issues": 0,
             "owner": "thompsonemerson",
             "repo": "bower-files-cli",
             "stars": 3,
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:55:52.554Z",
+    "last_updated": "2026-11-17T20:47:44.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",

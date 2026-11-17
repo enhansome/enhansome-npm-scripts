@@ -6,7 +6,7 @@
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,759 | 🐛 1 | 📅 2026-04-20.
+You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,761 | 🐛 1 | 📅 2026-04-20.
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.github.io/). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -92,7 +92,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 * [hashmark](https://github.com/keithamus/hashmark) ⭐ 189 | 🐛 8 | 🌐 JavaScript | 📅 2020-05-24 -  Take contents of a file and output as new file with a hash in the name.
 * [cli-error-notifier](https://github.com/micromata/cli-error-notifier) ⭐ 72 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-19 - Send native desktop notifications when npm scripts fail.
 * [headr](https://github.com/heldr/headr) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2016-08-24 - Add header / banner info to a file.
-* [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-18 - Get main bower files on the command line.
+* [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-17 - Get main bower files on the command line.
 
 ## Miscellaneous
 
@@ -130,4 +130,4 @@ See [CONTRIBUTING.md](https://github.com/RyanZim/awesome-npm-scripts/blob/master
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
