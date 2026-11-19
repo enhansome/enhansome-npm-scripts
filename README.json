@@ -15,7 +15,7 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:09:32Z",
+            "last_commit": "2026-11-19T03:34:25Z",
             "open_issues": 7,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
@@ -149,7 +149,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14241,
+            "stars": 14240,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -206,7 +206,7 @@
             "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6521,
+            "stars": 6520,
             "topics": [
               "cross-env",
               "cross-platform",
@@ -279,7 +279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "cpy-cli",
-            "stars": 363,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -300,7 +300,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "del-cli",
-            "stars": 334,
+            "stars": 333,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -464,7 +464,7 @@
                 "open_issues": 22,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1877,
+                "stars": 1876,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "open-cli",
-            "stars": 454,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -651,7 +651,7 @@
             "open_issues": 26,
             "owner": "ruyadorno",
             "repo": "ntl",
-            "stars": 967,
+            "stars": 966,
             "topics": [
               "cli",
               "command-line",
@@ -680,7 +680,7 @@
             "open_issues": 11,
             "owner": "forrest-app",
             "repo": "forrest",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "electron",
               "vue"
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:23:59.145Z",
+    "last_updated": "2026-11-19T20:27:48.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
@@ -803,7 +803,7 @@
       "open_issues": 1,
       "owner": "RyanZim",
       "repo": "awesome-npm-scripts",
-      "stars": 743,
+      "stars": 742,
       "topics": [
         "awesome",
         "awesome-list",
