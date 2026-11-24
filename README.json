@@ -15,11 +15,11 @@
             "id": 300367411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T00:47:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-24T08:42:20Z",
+            "open_issues": 4,
             "owner": "bcomnes",
             "repo": "npm-run-all2",
-            "stars": 445,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -149,7 +149,7 @@
             "open_issues": 113,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14242,
+            "stars": 14243,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -179,7 +179,7 @@
             "open_issues": 212,
             "owner": "tapio",
             "repo": "live-server",
-            "stars": 4568,
+            "stars": 4569,
             "topics": []
           },
           "first_seen": "2026-08-28T22:13:45.705Z"
@@ -464,7 +464,7 @@
                 "open_issues": 22,
                 "owner": "shelljs",
                 "repo": "shx",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "bash",
                   "shelljs",
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T23:46:49.317Z",
+    "last_updated": "2026-11-24T22:18:42.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything awesome related to npm scripts and using npm as a build tool.",
